@@ -1,0 +1,1 @@
+export PATH=/Users/misamisakondo/.rbenv/shims:/Users/misamisakondo/.rbenv/bin:/usr/local/git/bin/git:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/misamisakondo/bin:~/bin
